@@ -23,7 +23,7 @@
 ## 🚀 Quick Start
 
 1. **Download** the [IT Support Policy Template](IT-Support-Policy-Template.md)
-2. **Customize** using the [Customization Checklist](#customization-checklist)
+2. **Customize** using the [Customization Guide](docs/customization-guide.md)
 3. **Train your staff** using the procedures and checklists
 4. **Test** your escalation procedures
 5. **Review quarterly** and update as needed
